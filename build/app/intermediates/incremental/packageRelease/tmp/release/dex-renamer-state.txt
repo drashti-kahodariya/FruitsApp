@@ -1,0 +1,4 @@
+#Thu Dec 02 00:38:16 PST 2021
+base.0=/Users/android/Desktop/drashti/fruits/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
